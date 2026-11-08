@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Expensive.bot.Tests/Expensive.bot.Tests.csproj" Id="ff6cc363-18a6-4ca3-8710-1fa7f2ffdf46" />
+  <Project Path="Expensive.bot/Expensive.bot.csproj" />
+</Solution>
